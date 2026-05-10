@@ -1,0 +1,14 @@
+{
+    "display_name": "Story Engine",
+    "loading_order": 999,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "Local",
+    "version": "0.1.0",
+    "homePage": "https://docs.sillytavern.app/for-contributors/writing-extensions/",
+    "generate_interceptor": "StructuredPreflightEngines_generationInterceptor",
+    "hooks": {
+        "disable": "onDisable"
+    }
+}
